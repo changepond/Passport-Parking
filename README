@@ -1,1 +1,4 @@
-Is this change updating in the live server? tell me
+<?php 
+echo "This change is through git hub";
+
+?>
